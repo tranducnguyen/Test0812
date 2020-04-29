@@ -11,10 +11,10 @@ public class App {
         XuLy xlc = new XuLy();
         int flagStop = 1;
         Scanner sc = new Scanner(System.in);
-        int choice;
+        int choice;/*
         String maNhanVien;
         String tenNhanVien;
-        NhanVien nvTmp;
+        NhanVien nvTmp;*/
 
         System.out.println("Menu chức năng ");
         while (flagStop == 1) {
