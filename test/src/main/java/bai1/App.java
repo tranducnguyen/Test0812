@@ -11,10 +11,10 @@ public class App {
         System.out.print("a = ");
         Scanner sc = new Scanner(System.in);
 
-        int a = sc.nextInt();
+        /*int a = sc.nextInt();
         System.out.print("b = ");
         int b = sc.nextInt();
-        taoMang2Chieu(a, b);
+        taoMang2Chieu(a, b);*/
 
 
     }
